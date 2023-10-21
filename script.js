@@ -18,7 +18,7 @@ function generatePassword(characterCount) {
   const lowercase = "abcdefghijklmnopqrstuvwxyz"
   const uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
   const numbers = "0123456789"
-  const special = "!@#$%^&*()_+-="
+  const special = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~"
 
   includeLowercase = confirm("Do you want to include lowercase?")
   if (includeLowercase) {
