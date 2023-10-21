@@ -32,19 +32,30 @@ The following images show the web application's appearance and functionality:
 
 TODO:
 
+<!-- DONE -->
 * When generate password button is clicked, prompts for password criteria is presented
 
+<!-- DONE -->
 * When prompted for password criteria, I select which criteria to include
 
-* When prompted for length of password, I choose length between 8 characters and 128 characters. No more, no less.
-
+<!-- DONE -->
 * When asked for character types to include, I can confirm lowercase, uppercase, numeric, and special characters
 
-* When i answer the prompt, input should be validated and at least one character type should be selected
-
+<!-- DONE -->
 * When all prompts are answered, a passwored is generated that matches the criteria
 
+<!-- DONE -->
 * When password is generated, it should be displayed on the page or in an alert
+
+
+
+
+
+<!-- DONE" -->
+* When prompted for length of password, I choose length between 8 characters and 128 characters. No more, no less.
+
+<!-- DONE -->
+* When i answer the prompt, input should be validated and at least one character type should be selected
 
 * Deployed at live URL
 
