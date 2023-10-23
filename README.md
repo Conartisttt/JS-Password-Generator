@@ -1,7 +1,5 @@
 # JS-Password-Generator
 
-# Conartisttt-Portfolio
-
 ## Description
 
 The purpose of this application is to enable employees to generate random passwords based on criteria that they have selected. This allows them to create strong passwords to provide greater security. Starter code for this project was provided.
