@@ -26,5 +26,3 @@ The following image shows the web application's appearance and functionality:
 ## Credits
 * Starter code provided by edX Boot Camps LLC.
 * All updates made by Conner Martin aka Conartisttt
-
-* Has quality comments
